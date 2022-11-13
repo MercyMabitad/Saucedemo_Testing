@@ -1,6 +1,6 @@
 # Saucedemo_Testing
 This is an instruction on how to run the test script file for the Swag Labs website: https://www.saucedemo.com/
-STEPS: /n
+STEPS: <br>
 Install Selenium IDE for google chrome or firefox from the link provided: https://www.selenium.dev/
 Click "add extension"
 Download the file "Selenium_saucedemo.side" from the repository: https://github.com/MercyMabitad/Saucedemo_Testing.git
